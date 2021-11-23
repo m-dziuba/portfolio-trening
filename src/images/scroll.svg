@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50.387" height="80.741" viewBox="0 0 50.387 80.741">
+  <g id="Group_1" data-name="Group 1" transform="translate(-309.255 -713.578)">
+    <g id="Rectangle_1" data-name="Rectangle 1" transform="matrix(1, 0.017, -0.017, 1, 310.649, 713.578)" fill="none" stroke="#fff" stroke-width="6">
+      <rect width="49" height="79.898" rx="24.5" stroke="none"/>
+      <rect x="3" y="3" width="43" height="73.898" rx="21.5" fill="none"/>
+    </g>
+    <ellipse id="Ellipse_1" data-name="Ellipse 1" cx="15.5" cy="16" rx="15.5" ry="16" transform="translate(319 724)" fill="#fff"/>
+  </g>
+</svg>
